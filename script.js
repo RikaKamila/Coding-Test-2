@@ -4,8 +4,6 @@ let number3 = [5];
 let number4 = [1,3];
 
 
-
-
 function numberKaliDua (arr) {
     return arr.map(num => num *2);
 }
@@ -13,7 +11,7 @@ function numberKaliDua (arr) {
 let hasil1 = numberKaliDua(number1);
 let hasil2 = numberKaliDua(number2);
 let hasil3 = numberKaliDua(number3);
-let hasil4 = numberKaliDua(number3);
+let hasil4 = numberKaliDua(number4);
 
 
 
